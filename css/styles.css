@@ -152,6 +152,8 @@ h3.head-of-service {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--white-option);
+  max-width: 520px;
+  margin: 0 auto;
   margin-bottom: 48px;
 }
 .second-head {
@@ -162,11 +164,13 @@ h3.head-of-service {
   letter-spacing: 0.02em;
   color: var(--common-color);
   margin-bottom: 72px;
+  text-align: center;
 }
 .main-sectn {
   background: var(--common-color);
   padding-top: 188px;
   padding-bottom: 188px;
+  text-align: center;
 }
 .prh-main {
   font-size: 16px;
